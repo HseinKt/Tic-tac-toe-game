@@ -4,9 +4,6 @@ This is a simple Tic-tac-toe game implemented in JAVA. The game features a visua
 ### Real app screenshots
 
 <div>
-
-  ![XO3](https://github.com/HseinKt/Tic-tac-toe-game/assets/120685276/d4962f17-6939-4f13-85af-c6864eecdc81)
-
   <img src="https://github.com/HseinKt/Tic-tac-toe-game/assets/120685276/d4962f17-6939-4f13-85af-c6864eecdc81.jpg" width="200">
 
 
