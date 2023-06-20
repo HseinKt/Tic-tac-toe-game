@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XO_lab1</string>
+    <string name="homeTitle">XO_Game</string>
+    <string name="playButton">play</string>
+    <string name="playerSetupTitle">Enter your name</string>
+    <string name="label1">Player1</string>
+    <string name="label2">Player2</string>
+    <string name="submitButton">Submit Names</string>
+    <string name="NameHint">ENter your name</string>
+    
+    <string name="playAgainButton">Play Again</string>
+    <string name="homeButton">Home</string>
+</resources>
