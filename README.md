@@ -4,14 +4,10 @@ This is a simple Tic-tac-toe game implemented in JAVA. The game features a visua
 ### Real app screenshots
 
 <div>
-  <img src="https://github.com/HseinKt/Tic-tac-toe-game/assets/120685276/d4962f17-6939-4f13-85af-c6864eecdc81.jpg" width="200">
-
-
-  
-  <img src="https://raw.githubusercontent.com/HseinKt/Tic-tac-toe-game/main/assets/120685276/ff33513c-385b-4ac6-a962-62ed68a2e98b.jpg" width="200">
-  <img src="https://raw.githubusercontent.com/HseinKt/Tic-tac-toe-game/main/assets/120685276/33a7d321-5e9e-4fba-9426-46a1539a73e6.jpg" width="200">
+  <img src="https://github.com/HseinKt/Tic-tac-toe-game/assets/120685276/5eed4b48-12d5-45ee-ae56-a62672f5ce9c.jpg" width="300">
+  <img src="https://github.com/HseinKt/Tic-tac-toe-game/assets/120685276/d4962f17-6939-4f13-85af-c6864eecdc81.jpg" width="300">
+  <img src="https://github.com/HseinKt/Tic-tac-toe-game/assets/120685276/2c393ae0-6479-43cf-9090-7c089f37e6ff.jpg" width="300">
 </div>
-
 
 ### Features
 <ul>
